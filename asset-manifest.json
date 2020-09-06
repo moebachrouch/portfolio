@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/moebachrouch.github.io/static/css/main.e9788d8f.chunk.css",
-    "main.js": "/moebachrouch.github.io/static/js/main.80566518.chunk.js",
-    "main.js.map": "/moebachrouch.github.io/static/js/main.80566518.chunk.js.map",
-    "runtime-main.js": "/moebachrouch.github.io/static/js/runtime-main.0df25784.js",
-    "runtime-main.js.map": "/moebachrouch.github.io/static/js/runtime-main.0df25784.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/moebachrouch.github.io/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b13e0cc2.chunk.js": "/moebachrouch.github.io/static/js/2.b13e0cc2.chunk.js",
-    "static/js/2.b13e0cc2.chunk.js.map": "/moebachrouch.github.io/static/js/2.b13e0cc2.chunk.js.map",
-    "index.html": "/moebachrouch.github.io/index.html",
-    "precache-manifest.5b6682100aeea19c60affb5edb100387.js": "/moebachrouch.github.io/precache-manifest.5b6682100aeea19c60affb5edb100387.js",
-    "service-worker.js": "/moebachrouch.github.io/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/moebachrouch.github.io/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.e9788d8f.chunk.css.map": "/moebachrouch.github.io/static/css/main.e9788d8f.chunk.css.map",
-    "static/js/2.b13e0cc2.chunk.js.LICENSE.txt": "/moebachrouch.github.io/static/js/2.b13e0cc2.chunk.js.LICENSE.txt",
-    "static/media/kirchhoff.png": "/moebachrouch.github.io/static/media/kirchhoff.85933191.png"
+    "main.css": "/static/css/main.e9788d8f.chunk.css",
+    "main.js": "/static/js/main.ee306c6a.chunk.js",
+    "main.js.map": "/static/js/main.ee306c6a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6e37e88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6e37e88.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b13e0cc2.chunk.js": "/static/js/2.b13e0cc2.chunk.js",
+    "static/js/2.b13e0cc2.chunk.js.map": "/static/js/2.b13e0cc2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b74e27ba1175a4d202e2e48eac0f93cf.js": "/precache-manifest.b74e27ba1175a4d202e2e48eac0f93cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e9788d8f.chunk.css.map": "/static/css/main.e9788d8f.chunk.css.map",
+    "static/js/2.b13e0cc2.chunk.js.LICENSE.txt": "/static/js/2.b13e0cc2.chunk.js.LICENSE.txt",
+    "static/media/kirchhoff.png": "/static/media/kirchhoff.85933191.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0df25784.js",
+    "static/js/runtime-main.c6e37e88.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.b13e0cc2.chunk.js",
     "static/css/main.e9788d8f.chunk.css",
-    "static/js/main.80566518.chunk.js"
+    "static/js/main.ee306c6a.chunk.js"
   ]
 }
