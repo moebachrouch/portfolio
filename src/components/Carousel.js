@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Card from'../components/Card';
 
 import kirchhoff from '../assets/images/kirchhoff.png'
-import webdev from '../assets/images/webdev.png'
+// import webdev from '../assets/images/webdev.png'
 
 class Carousel extends React.Component {
     constructor(props) {
