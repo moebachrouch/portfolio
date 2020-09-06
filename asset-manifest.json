@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e9788d8f.chunk.css",
-    "main.js": "/portfolio/static/js/main.18deb81c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.18deb81c.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.a26abef3.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a26abef3.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.461dacab.chunk.js": "/portfolio/static/js/2.461dacab.chunk.js",
-    "static/js/2.461dacab.chunk.js.map": "/portfolio/static/js/2.461dacab.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.7487a2fc581cb5804d2739adafb345d3.js": "/portfolio/precache-manifest.7487a2fc581cb5804d2739adafb345d3.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.e9788d8f.chunk.css.map": "/portfolio/static/css/main.e9788d8f.chunk.css.map",
-    "static/js/2.461dacab.chunk.js.LICENSE.txt": "/portfolio/static/js/2.461dacab.chunk.js.LICENSE.txt",
-    "static/media/kirchhoff.png": "/portfolio/static/media/kirchhoff.85933191.png",
-    "static/media/webdev.png": "/portfolio/static/media/webdev.1a39080f.png"
+    "main.css": "/moebachrouch.github.io/static/css/main.e9788d8f.chunk.css",
+    "main.js": "/moebachrouch.github.io/static/js/main.01ea22f6.chunk.js",
+    "main.js.map": "/moebachrouch.github.io/static/js/main.01ea22f6.chunk.js.map",
+    "runtime-main.js": "/moebachrouch.github.io/static/js/runtime-main.0df25784.js",
+    "runtime-main.js.map": "/moebachrouch.github.io/static/js/runtime-main.0df25784.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/moebachrouch.github.io/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.461dacab.chunk.js": "/moebachrouch.github.io/static/js/2.461dacab.chunk.js",
+    "static/js/2.461dacab.chunk.js.map": "/moebachrouch.github.io/static/js/2.461dacab.chunk.js.map",
+    "index.html": "/moebachrouch.github.io/index.html",
+    "precache-manifest.a48f07d592549bc4c4de3cc15517f344.js": "/moebachrouch.github.io/precache-manifest.a48f07d592549bc4c4de3cc15517f344.js",
+    "service-worker.js": "/moebachrouch.github.io/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/moebachrouch.github.io/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.e9788d8f.chunk.css.map": "/moebachrouch.github.io/static/css/main.e9788d8f.chunk.css.map",
+    "static/js/2.461dacab.chunk.js.LICENSE.txt": "/moebachrouch.github.io/static/js/2.461dacab.chunk.js.LICENSE.txt",
+    "static/media/kirchhoff.png": "/moebachrouch.github.io/static/media/kirchhoff.85933191.png",
+    "static/media/webdev.png": "/moebachrouch.github.io/static/media/webdev.1a39080f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a26abef3.js",
+    "static/js/runtime-main.0df25784.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.461dacab.chunk.js",
     "static/css/main.e9788d8f.chunk.css",
-    "static/js/main.18deb81c.chunk.js"
+    "static/js/main.01ea22f6.chunk.js"
   ]
 }
