@@ -11,9 +11,9 @@ function AboutPage(props) {
 
 <p>My name is Moe and I'm a software developer.</p>
 
-<p>I have a Bachelor's degree in science, and I am now studying Software Engineering at the University of Ottawa. I enjoy coding and learning new Software tools. I work with multiple languages including Python, Java, and JavaScript.</p>
+<p>I have a Bachelor's degree in science, and I am now studying Software Engineering at the University of Ottawa. I enjoy coding and learning new software tools. I work with multiple languages including <b>Python</b> and <b>Java</b>.</p>
 
-<p>Computers fascinate me, so I'm always learning new computer skills. I find both Hardware and Software interesting. Sometimes, I experiment with Arduinos. Other times, I do Web development using HTML, CSS, and JavaScript.</p>
+<p>Computers fascinate me, so I'm always learning new computer skills. I find both jardware and software interesting. Sometimes, I experiment with Arduinos. Other times, I do Web development using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</p>
 
 <p>When I'm not coding, I like to produce music using Logic Pro X, play with 3D printers, or go outside for a run. I'm a social guy and I like people, so I try to reconnect with friends on my free time.</p>
 
