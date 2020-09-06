@@ -16,7 +16,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Facebook Cleaner',
                     subTitle: 'Remove your Facebook History',
-                    // imgSrc: kirchhoff,
+                    imgSrc: kirchhoff,
                     link: 'https://github.com/moebachrouch/facebook-cleaner',
                     selected: false
                 },
