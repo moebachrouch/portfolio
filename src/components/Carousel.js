@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Card from '../components/Card';
 
 import gustav from '../assets/images/gustav.png'
-import selenium from '../assets/images/selenium.png'
+import python from '../assets/images/python.png'
 
 
 class Carousel extends React.Component {
@@ -17,7 +17,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Facebook Cleaner',
                     subTitle: 'Remove your Facebook History',
-                    imgSrc: selenium,
+                    imgSrc: python,
                     link: 'https://github.com/moebachrouch/facebook-cleaner',
                     selected: false
                 },
