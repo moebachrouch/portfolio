@@ -4,8 +4,9 @@ import Row from 'react-bootstrap/Row';
 
 import Card from '../components/Card';
 
-import gustav from '../assets/images/gustav.png'
+import clang from '../assets/images/clang.png'
 import python from '../assets/images/python.png'
+import javascript from '../assets/images/javascript.png'
 
 
 class Carousel extends React.Component {
@@ -25,7 +26,7 @@ class Carousel extends React.Component {
                     id: 1,
                     title: 'Root Finder',
                     subTitle: 'Incremental Search Root Finding Method',
-                    imgSrc: gustav,
+                    imgSrc: clang,
                     link: 'https://github.com/MOEBACHROUCH/GRAPHIC-APPLICATION',
                     selected: false
                 },
@@ -33,7 +34,7 @@ class Carousel extends React.Component {
                     id: 2,
                     title: 'Unison',
                     subTitle: 'Pure CSS, HTML, JS Website',
-                    // imgSrc: webdev,
+                    imgSrc: javascript,
                     link: 'https://github.com/unison-inc-uottawa/unison',
                     selected: false
                 },
