@@ -5,6 +5,8 @@ import Row from 'react-bootstrap/Row';
 import Card from '../components/Card';
 
 import gustav from '../assets/images/gustav.png'
+import selenium from '../assets/images/selenium.png'
+
 
 class Carousel extends React.Component {
     constructor(props) {
@@ -15,7 +17,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Facebook Cleaner',
                     subTitle: 'Remove your Facebook History',
-                    imgSrc: gustav,
+                    imgSrc: selenium,
                     link: 'https://github.com/moebachrouch/facebook-cleaner',
                     selected: false
                 },
@@ -23,7 +25,7 @@ class Carousel extends React.Component {
                     id: 1,
                     title: 'Root Finder',
                     subTitle: 'Incremental Search Root Finding Method',
-                    // imgSrc: kirchhoff,
+                    imgSrc: gustav,
                     link: 'https://github.com/MOEBACHROUCH/GRAPHIC-APPLICATION',
                     selected: false
                 },
