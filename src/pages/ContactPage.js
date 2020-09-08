@@ -63,9 +63,7 @@ class ContactPage extends React.Component {
                     emailSent: false
                 });
             })
-
     }
-
 
     render() {
         return(

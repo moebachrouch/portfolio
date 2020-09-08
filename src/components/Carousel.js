@@ -2,7 +2,9 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 
-import Card from'../components/Card';
+import Card from '../components/Card';
+
+import gustav from '../assets/images/gustav.png'
 
 class Carousel extends React.Component {
     constructor(props) {
@@ -13,7 +15,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Facebook Cleaner',
                     subTitle: 'Remove your Facebook History',
-                    // imgSrc: kirchhoff,
+                    imgSrc: gustav,
                     link: 'https://github.com/moebachrouch/facebook-cleaner',
                     selected: false
                 },
